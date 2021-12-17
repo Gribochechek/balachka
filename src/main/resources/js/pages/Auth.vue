@@ -1,6 +1,6 @@
 <template>
     <v-container>
-        Необходимо авторизоваться через
+        Необхідно авторизуватись за допомогою
         <a href="/login">Google</a>
     </v-container>
 </template>
